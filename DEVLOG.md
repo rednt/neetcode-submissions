@@ -9,3 +9,4 @@
 | 5	| Top K Frequent | Elements	Hashmap + Sort by frequency |	O(n log n) / O(n) |	Bucket sort O(n) / O(n) |	Sept 8 |
 | 6	| Encode and Decode Strings | String manipulation | O(m+n) / O(m+n) |	Attach each string to its length. We write `length#string` |	Sept 9 
 | 6	| Products of Array Except Self | Suffix prefix arrays | O(n) / O(1) | Compute the total product of all elements, then for each index just divide out that element: `ans[i] = totalProduct / nums[i]` |	Sept 10 |
+| 6	| Valid Sudoku | One pass hashset | O(1) / O(1) (fixed number - 9x9) | Bitmasking instead of hash sets |	Sept 11 |
