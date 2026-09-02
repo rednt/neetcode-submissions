@@ -11,3 +11,4 @@
 | 7	| Products of Array Except Self | Suffix prefix arrays | O(n) / O(1) | Compute the total product of all elements, then for each index just divide out that element: `ans[i] = totalProduct / nums[i]` |	Sept 10 |
 | 8	| Valid Sudoku | One pass hashset | O(1) / O(1) (fixed number - 9x9) | Bitmasking instead of hash sets |	Sept 11 |
 | 9	| Longest Consecutive Sequence | Hash Set| O(n) / O(n) | Sorting O(nlogn) / O(n) |	Sept 12 |
+| 10	| Valid Palindrome | Two Pointers | O(n) / O(1) | Reverse string O(n) / O(n) |	Sept 13 |
