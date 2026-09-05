@@ -12,3 +12,4 @@
 | 8	| Valid Sudoku | One pass hashset | O(1) / O(1) (fixed number - 9x9) | Bitmasking instead of hash sets |	Sept 11 |
 | 9	| Longest Consecutive Sequence | Hash Set| O(n) / O(n) | Sorting O(nlogn) / O(n) |	Sept 12 |
 | 10	| Valid Palindrome | Two Pointers | O(n) / O(1) | Reverse string O(n) / O(n) |	Sept 13 |
+| 11	| Two Integer Sum II | Two Pointers | O(n) / O(1) | Binary search O(nlogn) / O(1) |	Sept 15 |
