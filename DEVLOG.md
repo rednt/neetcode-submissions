@@ -14,4 +14,4 @@
 | 10	| Valid Palindrome | Two Pointers | O(n) / O(1) | Reverse string O(n) / O(n) |	 |
 | 11	| Two Integer Sum II | Two Pointers | O(n) / O(1) | Binary search O(nlogn) / O(1) |	 |
 | 12	| 3 Sum | Sort + Fixed Pointer + Two Pointers | O(n²) / O(1) | Brute-force triple loop O(n³) / O(1) |	 |
-
+| 13	| Container With Most Water | 2 Pointers | O(n) / O(1) | Brute-force triple loop O(n²) / O(1) |	 |
